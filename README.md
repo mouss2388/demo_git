@@ -2,4 +2,4 @@
 une démo de git
 UNE DEMO GIT QUI SE PASSE BIEN
 Et maintenant on modifie depuis GITHUB
-Mais aussi modifié depuis ma machine
+Mais aussi modifié depuis ma machine Et C'EST COOL
